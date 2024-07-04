@@ -1,0 +1,16 @@
+{
+    "ObjectDetection": {
+        "FileStucture":{
+            "plants": "/Plants/{item}",
+            "leaves": "/Leaves/{item}",
+            "flowers": "/Flowers/{item}",
+            "raw_fruits": "/RawFruits/{item}"
+        },
+        "Count": {
+            "plants": 600,
+            "leaves": 500,
+            "flowers": 200,
+            "raw_fruits": 200
+        }
+    }
+}
