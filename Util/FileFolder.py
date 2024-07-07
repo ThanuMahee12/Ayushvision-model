@@ -306,7 +306,7 @@ def copy_folder_stucture(base,target):
         new_folder=path.join(target,relpath)
         if not path.exists(new_folder):
              makedirs(new_folder)
-print('created')
+   print('created')
 
 
 # total files in a folder
