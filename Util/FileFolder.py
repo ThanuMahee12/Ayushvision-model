@@ -1,3 +1,4 @@
+import os
 from os import path,walk,listdir,scandir,mkdir,mkdir,makedirs,rename,remove
 from shutil import rmtree,copytree,copy2,move
 from datetime import datetime
@@ -28,7 +29,7 @@ file_parent_folder_name=lambda file:path.basename(path.dirname(file))
 # subfolders name
 
 
-sub_folders=lambda root_folder:listdir(root_folder) if path.exists(root_folder) else f'{root_folder} is not exist'
+sub_folders = lambda root_folder: [d for d in os.listdir(root_folder) if os.path.isdir(os.path.join(root_folder, d))] if os.path.exists(root_folder) else f'{root_folder} does not exist'
 
 
 # number of subfolders
