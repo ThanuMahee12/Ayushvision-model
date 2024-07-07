@@ -35,13 +35,13 @@ sub_folders = lambda root_folder: [d for d in os.listdir(root_folder) if os.path
 # number of subfolders
 
 
-num_sub_folders=lambda root_folder:len(listdir(root_folder)) if path.exists(root_folder) else f'{root_folder} is not exist'
+num_sub_folders = lambda root_folder: len([d for d in os.listdir(root_folder) if os.path.isdir(os.path.join(root_folder, d))]) if os.path.exists(root_folder) else f'{root_folder} does not exist'
 
 
 # subfolders all_paths 
 
 
-list_all_subfolders = lambda root_dir: [path.join(dp, f) for dp, dn, filenames in walk(root_dir) for f in dn]
+list_all_subfolders = lambda root_dir: [os.path.join(dp, d) for dp, dn, _ in os.walk(root_dir) for d in dn]
 
 
 # subfolder paths
