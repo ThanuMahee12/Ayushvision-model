@@ -59,7 +59,7 @@ count_files_in_folder = lambda folder_path: sum([len(files) for _, _, files in w
 # create new Folder
 
 
-create_new_folder=lambda folder:mkdir(folder) if not path.exists(folder) else 'folder exist'
+create_new_folder=lambda folder:mkdir(folder)
 
 
 
