@@ -155,7 +155,7 @@ join_path=lambda *pathname:path.join(*pathname)
 # Relative path
 
 
-rel_path=lambda path,root:path.relpath(path,root)
+rel_path=lambda pathname,root:path.relpath(pathname,root)
 
 
 # Remove File
