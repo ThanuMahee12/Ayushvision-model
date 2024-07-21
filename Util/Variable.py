@@ -1,10 +1,9 @@
 import os
 
-
+from dotenv import load_dotenv, dotenv_values 
+load_dotenv() 
 # Enviroment Variable
-original_dataset_dir=os.environ.get('MAIN_DATASET_PATH')
-work_dataset_dir=os.environ.get('TARGET_DATASET_PATH')
-summary_report_dir=os.environ.get('Summary_Dictortory')
+original_dataset_dir=os.getenv('MAIN_DATASET_PATH')
+summary_report_dir=os.environ.get('SUMMARY_DICTORY')
+firebaseKey=os.environ.get('FIREBASEKEY')
 
-#
-ayush_vision_json=
