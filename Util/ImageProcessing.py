@@ -19,10 +19,10 @@ resize_image =lambda size,image=None,imagepath=None:Image.open(imagepath).resize
 
 # resize of folder of images
 def resize_image_folder(ImageSetPaths,size=(150,150)):
-    for path in ImageSetPaths:
-        with Image.open(path) as image:
+    for pathname in ImageSetPaths:
+        with Image.open(pathname) as image:
            img= image.resize(size)
-           img.save(path)
+           img.save(pathname)
     print("resized all images")
 # rotate Image
 rotate_image =lambda rotate=90,image=None,imagepath=None:Image.open(imagepath).rotate(rotate) if image==None else image.rotate(rotate)

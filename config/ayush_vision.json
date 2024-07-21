@@ -1,3 +1,15 @@
 {
-
+"dataset":{
+    "prepare":{
+        "objectDetection":{
+            "count":{
+                "plants":600,
+                "leaves":500,
+                "flowers":200,
+                "raw_fruits":200,
+                "roots":200
+            }
+        }
+    }
+}
 }

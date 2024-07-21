@@ -60,7 +60,7 @@ count_files_in_folder = lambda folder_path: sum([len(files) for _, _, files in w
 # create new Folder
 
 
-create_new_folder=lambda folder:mkdir(folder) if not path.exists(folder) else 'folder exist'
+create_new_folder=lambda folder:mkdir(folder)
 
 
 
@@ -155,7 +155,7 @@ join_path=lambda *pathname:path.join(*pathname)
 # Relative path
 
 
-rel_path=lambda path,root:path.relpath(path,root)
+rel_path=lambda pathname,root:path.relpath(pathname,root)
 
 
 # Remove File
