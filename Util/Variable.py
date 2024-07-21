@@ -16,3 +16,5 @@ working_dirctory=os.getenv("TARGET_DATASET_PATH")
 working_dir_name=os.getenv('WORKING_DIR_NAME')
 ayush_classFication_Working=os.path.join(working_dirctory,working_dir_name,'classification')
 ayush_detection_Working=os.path.join(working_dirctory,working_dir_name,'detection')
+firebaseKey=os.environ.get('FIREBASEKEY')
+
