@@ -228,7 +228,7 @@ def save_to_csv_filedetails(data,colums=[],csv_filename=None,save_folder=None):
     if csv_filename.find(".csv") ==-1:
        csv_filename=f'{csv_filename}.csv'
     filpath=path.join(save_folder,csv_filename) if save_folder!=None else csv_filename
-    with open(filpath, 'a', newline='', encoding='utf-8') as csvfile:
+    with open(filpath, 'w', newline='', encoding='utf-8') as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(colums)
         for datai in data:
