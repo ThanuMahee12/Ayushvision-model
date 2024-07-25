@@ -1,5 +1,5 @@
 
-from PIL import Image,ImageStat,ImageEnhance
+from PIL import Image,ImageStat,ImageEnhance,UnidentifiedImageError
 import matplotlib.pyplot as plt
 import random
 import os
@@ -20,9 +20,19 @@ resize_image =lambda size,image=None,imagepath=None:Image.open(imagepath).resize
 # resize of folder of images
 def resize_image_folder(ImageSetPaths,size=(150,150)):
     for pathname in ImageSetPaths:
-        with Image.open(pathname) as image:
-           img= image.resize(size)
-           img.save(pathname)
+        if os.path.exists(pathname):
+            file_size = os.path.getsize(pathname)
+            if file_size > 100:
+                    try:
+                        with Image.open(pathname) as image:
+                            img= image.resize(size)
+                            img.save(pathname)
+                    except UnidentifiedImageError:
+                        print(f'error{pathname}')
+            else:
+                print(f"File '{pathname}' seems too small, possibly truncated.")
+        else:
+            print(pathname)
     print("resized all images")
 # rotate Image
 rotate_image =lambda rotate=90,image=None,imagepath=None:Image.open(imagepath).rotate(rotate) if image==None else image.rotate(rotate)
@@ -37,26 +47,26 @@ def random_convert(image):
 # random rotate
 
 def random_rotate(image):
-    rotate=random.uniform(0.360)
+    rotate=random.uniform(0,360)
     return image.rotate(rotate)
 
 #random flip
 
 def random_flip(image):
     flip_option=[Image.ROTATE_90,Image.ROTATE_180,Image.ROTATE_270,Image.FLIP_TOP_BOTTOM,Image.FLIP_LEFT_RIGHT]
-    flip=flip_option(random.randint(1,5))
+    flip=flip_option[random.randint(1,4)]
     return image.transpose(flip)
 # random brightness
 def random_Bright(image):
     enhancer = ImageEnhance.Brightness(image)
-    factor=random.uniform(0, 1)
-    enhancer.enhance(factor)
+    factor=random.uniform(0.5, 0.8)
+    return enhancer.enhance(factor)
 # random Contract level
 
 def random_contrast(image):
     enhancer = ImageEnhance.Contrast(image)
-    factor=random.uniform(0, 1)
-    enhancer.enhance(factor)
+    factor=random.uniform(0.5, 0.8)
+    return enhancer.enhance(factor)
 # random image
 
 def randomImage(Imageset,count=1):
@@ -168,10 +178,10 @@ def DataSetgenration(pathList,genrationFun,target_count=10,tool="PIL",save_dir=N
         split_name.insert(-1,'gen')
         name='_'.join(split_name)
         saving=os.path.join(saving_dir,f'{name}.png')
-        image=Image.open(random_image) if tool=="PIL" else cv2.imread()
+        image=Image.open(random_image)
         for function in genrationFun:
             image=function(image)
-        image.save(saving) if tool=="PIL" else cv2.imwrite(saving,image)
+        image.save(saving) 
         count=count+1
         
     print('action complete')
