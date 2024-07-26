@@ -19,6 +19,7 @@ resize_image =lambda size,image=None,imagepath=None:Image.open(imagepath).resize
 
 # resize of folder of images
 def resize_image_folder(ImageSetPaths,size=(150,150)):
+    corrupted_files = []
     for pathname in ImageSetPaths:
         if os.path.exists(pathname):
             file_size = os.path.getsize(pathname)
@@ -27,13 +28,15 @@ def resize_image_folder(ImageSetPaths,size=(150,150)):
                         with Image.open(pathname) as image:
                             img= image.resize(size)
                             img.save(pathname)
-                    except UnidentifiedImageError:
-                        print(f'error{pathname}')
+                    except (OSError, UnidentifiedImageError) as e:
+                        print(f"Error processing {pathname}: {e}")
+                        corrupted_files.append(pathname)
             else:
                 print(f"File '{pathname}' seems too small, possibly truncated.")
         else:
             print(pathname)
     print("resized all images")
+    return corrupted_files
 # rotate Image
 rotate_image =lambda rotate=90,image=None,imagepath=None:Image.open(imagepath).rotate(rotate) if image==None else image.rotate(rotate)
 # flip image
