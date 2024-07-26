@@ -188,3 +188,30 @@ def DrawHistrogram(histrogram,name,show=True,save="histrogram.jpg",fig=(4,4)):
     plt.title(title)
     if show:
         plt.show()
+
+def is_corrupted_pillow(image_path):
+    try:
+        with Image.open(image_path) as img:
+            img.verify()  # Verify that it is, in fact, an image
+        return False
+    except (IOError, SyntaxError) as e:
+        return True
+
+def is_corrupted_opencv(image_path):
+    try:
+        img = cv2.imread(image_path)
+        if img is None:
+            return True
+        return False
+    except Exception as e:
+        return True
+
+def find_corrupted_images(directory):
+    corrupted_images = []
+    for root, _, files in os.walk(directory):
+        for file in files:
+            if file.lower().endswith(('.png', '.jpg', '.jpeg', '.tiff', '.bmp', '.gif')):
+                image_path = os.path.join(root, file)
+                if is_corrupted_pillow(image_path) or is_corrupted_opencv(image_path):
+                    corrupted_images.append(image_path)
+    return corrupted_images
