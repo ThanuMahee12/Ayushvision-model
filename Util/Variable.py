@@ -19,4 +19,4 @@ today_classfication_non_eligble_csv=os.path.join(today_classfication_analysis_pa
 
 ayush_classFication_Working=os.path.join(working_dirctory,working_dir_name,'classification')
 ayush_detection_Working=os.path.join(working_dirctory,working_dir_name,'detection')
-
+ayush_classification_prepare_summary=os.path.join(today_summary_path,'prepare','classfication') # from Variables
