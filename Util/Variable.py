@@ -22,3 +22,4 @@ ayush_classFication_Working=os.path.join(working_dirctory,working_dir_name,'clas
 ayush_detection_Working=os.path.join(working_dirctory,working_dir_name,'detection')
 
 today_collection_summary_path=os.path.join(today_summary_path,'collection')
+ayush_classification_prepare_summary=os.path.join(today_summary_path,'prepare','classfication') # from Variables
