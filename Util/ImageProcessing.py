@@ -169,7 +169,7 @@ def DataSetgenration(pathList,genrationFun,target_count=10,tool="PIL",save_dir=N
             pathList.remove(path)
     if save_dir !=None and not os.path.exists(save_dir):
             os.makedirs(save_dir)
-    count=1
+    count=0
     while count <=target_count:
         random_image=random.choice(pathList)
         saving_dir =os.path.dirname(random_image) if save_dir==None else save_dir
@@ -177,7 +177,7 @@ def DataSetgenration(pathList,genrationFun,target_count=10,tool="PIL",save_dir=N
         split_name=base_name.split("_")
         split_name.insert(-1,'gen')
         name='_'.join(split_name)
-        saving=os.path.join(saving_dir,f'{name}.png')
+        saving=os.path.join(saving_dir,f'{name}.{exe}')
         image=Image.open(random_image)
         for function in genrationFun:
             image=function(image)
