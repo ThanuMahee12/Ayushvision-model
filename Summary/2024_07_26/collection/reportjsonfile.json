@@ -1,0 +1,1408 @@
+{
+    "volume_gb": 157.63038709014654,
+    "count": 48915,
+    "subfolder": [
+        {
+            "name": "AdamantCreeper",
+            "path": "E:\\\\Ddisk\\AyushVision\\AdamantCreeper",
+            "filecount": 1514,
+            "volume": {
+                "GB": 4.865016677416861,
+                "KB": 5101339.7275390625,
+                "MB": 4981.777077674866
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\AdamantCreeper\\flower",
+                            "filecount": 200,
+                            "volume": {
+                                "GB": 0.5076267756521702,
+                                "KB": 532285.25390625,
+                                "MB": 519.8098182678223
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\AdamantCreeper\\leaf",
+                            "filecount": 719,
+                            "volume": {
+                                "GB": 1.4668953260406852,
+                                "KB": 1538151.2333984375,
+                                "MB": 1502.1008138656616
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\AdamantCreeper\\plant",
+                            "filecount": 595,
+                            "volume": {
+                                "GB": 2.8904945757240057,
+                                "KB": 3030903.240234375,
+                                "MB": 2959.866445541382
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Alovera",
+            "path": "E:\\\\Ddisk\\AyushVision\\Alovera",
+            "filecount": 1513,
+            "volume": {
+                "GB": 4.886933599598706,
+                "KB": 5124321.2861328125,
+                "MB": 5004.220005989075
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Alovera\\leaf",
+                            "filecount": 513,
+                            "volume": {
+                                "GB": 1.439968764781952,
+                                "KB": 1509916.6875,
+                                "MB": 1474.5280151367188
+                            }
+                        },
+                        {
+                            "name": "Plants",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Alovera\\Plants",
+                            "filecount": 1000,
+                            "volume": {
+                                "GB": 3.446964834816754,
+                                "KB": 3614404.5986328125,
+                                "MB": 3529.691990852356
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Betel",
+            "path": "E:\\\\Ddisk\\AyushVision\\Betel",
+            "filecount": 1500,
+            "volume": {
+                "GB": 4.355446450412273,
+                "KB": 4567016.6171875,
+                "MB": 4459.977165222168
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Betel\\leaf",
+                            "filecount": 750,
+                            "volume": {
+                                "GB": 2.1782891834154725,
+                                "KB": 2284101.7587890625,
+                                "MB": 2230.568123817444
+                            }
+                        },
+                        {
+                            "name": "Plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Betel\\Plant",
+                            "filecount": 750,
+                            "volume": {
+                                "GB": 2.177157266996801,
+                                "KB": 2282914.8583984375,
+                                "MB": 2229.409041404724
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Black-HoneyShrub",
+            "path": "E:\\\\Ddisk\\AyushVision\\Black-HoneyShrub",
+            "filecount": 1516,
+            "volume": {
+                "GB": 4.474189204163849,
+                "KB": 4691527.4189453125,
+                "MB": 4581.569745063782
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Black-HoneyShrub\\leaf",
+                            "filecount": 619,
+                            "volume": {
+                                "GB": 1.4936039363965392,
+                                "KB": 1566157.2412109375,
+                                "MB": 1529.4504308700562
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Black-HoneyShrub\\plant",
+                            "filecount": 897,
+                            "volume": {
+                                "GB": 2.98058526776731,
+                                "KB": 3125370.177734375,
+                                "MB": 3052.1193141937256
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Calotropisgigantea",
+            "path": "E:\\\\Ddisk\\AyushVision\\Calotropisgigantea",
+            "filecount": 1500,
+            "volume": {
+                "GB": 7.194335773587227,
+                "KB": 7543807.828125,
+                "MB": 7366.99983215332
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Calotropisgigantea\\flower",
+                            "filecount": 237,
+                            "volume": {
+                                "GB": 0.6103467978537083,
+                                "KB": 639995.00390625,
+                                "MB": 624.9951210021973
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Calotropisgigantea\\leaf",
+                            "filecount": 537,
+                            "volume": {
+                                "GB": 1.5633986592292786,
+                                "KB": 1639342.3125,
+                                "MB": 1600.9202270507812
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Calotropisgigantea\\plant",
+                            "filecount": 726,
+                            "volume": {
+                                "GB": 5.02059031650424,
+                                "KB": 5264470.51171875,
+                                "MB": 5141.084484100342
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Caster",
+            "path": "E:\\\\Ddisk\\AyushVision\\Caster",
+            "filecount": 1497,
+            "volume": {
+                "GB": 5.183218250982463,
+                "KB": 5434998.2607421875,
+                "MB": 5307.6154890060425
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Caster\\leaf",
+                            "filecount": 500,
+                            "volume": {
+                                "GB": 1.6412325501441956,
+                                "KB": 1720957.0625,
+                                "MB": 1680.6221313476562
+                            }
+                        },
+                        {
+                            "name": "Plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Caster\\Plant",
+                            "filecount": 612,
+                            "volume": {
+                                "GB": 2.342791337519884,
+                                "KB": 2456594.76953125,
+                                "MB": 2399.0183296203613
+                            }
+                        },
+                        {
+                            "name": "seeds",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Caster\\seeds",
+                            "filecount": 385,
+                            "volume": {
+                                "GB": 1.1991943633183837,
+                                "KB": 1257446.4287109375,
+                                "MB": 1227.975028038025
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Cinnamon",
+            "path": "E:\\\\Ddisk\\AyushVision\\Cinnamon",
+            "filecount": 1500,
+            "volume": {
+                "GB": 4.4096250385046005,
+                "KB": 4623826.984375,
+                "MB": 4515.456039428711
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Cinnamon\\leaf",
+                            "filecount": 877,
+                            "volume": {
+                                "GB": 2.1835743747651577,
+                                "KB": 2289643.68359375,
+                                "MB": 2235.9801597595215
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Cinnamon\\plant",
+                            "filecount": 623,
+                            "volume": {
+                                "GB": 2.226050663739443,
+                                "KB": 2334183.30078125,
+                                "MB": 2279.4758796691895
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "ginger",
+            "path": "E:\\\\Ddisk\\AyushVision\\ginger",
+            "filecount": 1501,
+            "volume": {
+                "GB": 4.4999858140945435,
+                "KB": 4718577.125,
+                "MB": 4607.9854736328125
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\ginger\\leaf",
+                            "filecount": 535,
+                            "volume": {
+                                "GB": 1.5190698560327291,
+                                "KB": 1592860.193359375,
+                                "MB": 1555.5275325775146
+                            }
+                        },
+                        {
+                            "name": "plants",
+                            "path": "E:\\\\Ddisk\\AyushVision\\ginger\\plants",
+                            "filecount": 766,
+                            "volume": {
+                                "GB": 2.5099556148052216,
+                                "KB": 2631879.21875,
+                                "MB": 2570.194549560547
+                            }
+                        },
+                        {
+                            "name": "Root",
+                            "path": "E:\\\\Ddisk\\AyushVision\\ginger\\Root",
+                            "filecount": 200,
+                            "volume": {
+                                "GB": 0.47096034325659275,
+                                "KB": 493837.712890625,
+                                "MB": 482.263391494751
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Henna",
+            "path": "E:\\\\Ddisk\\AyushVision\\Henna",
+            "filecount": 1500,
+            "volume": {
+                "GB": 4.256869252771139,
+                "KB": 4463650.93359375,
+                "MB": 4359.0341148376465
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Henna\\leaf",
+                            "filecount": 750,
+                            "volume": {
+                                "GB": 1.827115984633565,
+                                "KB": 1915869.970703125,
+                                "MB": 1870.9667682647705
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Henna\\plant",
+                            "filecount": 750,
+                            "volume": {
+                                "GB": 2.429753268137574,
+                                "KB": 2547780.962890625,
+                                "MB": 2488.067346572876
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Hibiscus",
+            "path": "E:\\\\Ddisk\\AyushVision\\Hibiscus",
+            "filecount": 1501,
+            "volume": {
+                "GB": 4.485610145144165,
+                "KB": 4703503.1435546875,
+                "MB": 4593.2647886276245
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Hibiscus\\flower",
+                            "filecount": 300,
+                            "volume": {
+                                "GB": 0.6355089657008648,
+                                "KB": 666379.44921875,
+                                "MB": 650.7611808776855
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Hibiscus\\leaf",
+                            "filecount": 594,
+                            "volume": {
+                                "GB": 1.1608540313318372,
+                                "KB": 1217243.6767578125,
+                                "MB": 1188.7145280838013
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Hibiscus\\plant",
+                            "filecount": 607,
+                            "volume": {
+                                "GB": 2.6892471481114626,
+                                "KB": 2819880.017578125,
+                                "MB": 2753.7890796661377
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "HolyBasil",
+            "path": "E:\\\\Ddisk\\AyushVision\\HolyBasil",
+            "filecount": 1547,
+            "volume": {
+                "GB": 5.048700542189181,
+                "KB": 5293946.2197265625,
+                "MB": 5169.869355201721
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\HolyBasil\\flower",
+                            "filecount": 328,
+                            "volume": {
+                                "GB": 0.48158658668398857,
+                                "KB": 504980.13671875,
+                                "MB": 493.1446647644043
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\HolyBasil\\leaf",
+                            "filecount": 574,
+                            "volume": {
+                                "GB": 1.9485527873039246,
+                                "KB": 2043205.6875,
+                                "MB": 1995.3180541992188
+                            }
+                        },
+                        {
+                            "name": "Plants",
+                            "path": "E:\\\\Ddisk\\AyushVision\\HolyBasil\\Plants",
+                            "filecount": 645,
+                            "volume": {
+                                "GB": 2.6185611682012677,
+                                "KB": 2745760.3955078125,
+                                "MB": 2681.406636238098
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "indian Mallow",
+            "path": "E:\\\\Ddisk\\AyushVision\\indian Mallow",
+            "filecount": 1500,
+            "volume": {
+                "GB": 5.19551242236048,
+                "KB": 5447889.6337890625,
+                "MB": 5320.204720497131
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\indian Mallow\\flower",
+                            "filecount": 400,
+                            "volume": {
+                                "GB": 1.2862238511443138,
+                                "KB": 1348703.4609375,
+                                "MB": 1317.0932235717773
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\indian Mallow\\leaf",
+                            "filecount": 500,
+                            "volume": {
+                                "GB": 1.439592775888741,
+                                "KB": 1509522.4345703125,
+                                "MB": 1474.1430025100708
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\indian Mallow\\plant",
+                            "filecount": 600,
+                            "volume": {
+                                "GB": 2.469695795327425,
+                                "KB": 2589663.73828125,
+                                "MB": 2528.968494415283
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Indianacalypha",
+            "path": "E:\\\\Ddisk\\AyushVision\\Indianacalypha",
+            "filecount": 1500,
+            "volume": {
+                "GB": 3.7994639864191413,
+                "KB": 3984026.7490234375,
+                "MB": 3890.6511220932007
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Indianacalypha\\flower",
+                            "filecount": 300,
+                            "volume": {
+                                "GB": 0.6289306739345193,
+                                "KB": 659481.6103515625,
+                                "MB": 644.0250101089478
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Indianacalypha\\leaf",
+                            "filecount": 550,
+                            "volume": {
+                                "GB": 1.2336687818169594,
+                                "KB": 1293595.4765625,
+                                "MB": 1263.2768325805664
+                            }
+                        },
+                        {
+                            "name": "plants",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Indianacalypha\\plants",
+                            "filecount": 650,
+                            "volume": {
+                                "GB": 1.9368645306676626,
+                                "KB": 2030949.662109375,
+                                "MB": 1983.3492794036865
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "ivy gourd",
+            "path": "E:\\\\Ddisk\\AyushVision\\ivy gourd",
+            "filecount": 1500,
+            "volume": {
+                "GB": 3.9001894360408187,
+                "KB": 4089645.0380859375,
+                "MB": 3993.7939825057983
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "fruits",
+                            "path": "E:\\\\Ddisk\\AyushVision\\ivy gourd\\fruits",
+                            "filecount": 218,
+                            "volume": {
+                                "GB": 0.5068182367831469,
+                                "KB": 531437.439453125,
+                                "MB": 518.9818744659424
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\ivy gourd\\leaf",
+                            "filecount": 550,
+                            "volume": {
+                                "GB": 1.199452986009419,
+                                "KB": 1257717.6142578125,
+                                "MB": 1228.239857673645
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\ivy gourd\\plant",
+                            "filecount": 732,
+                            "volume": {
+                                "GB": 2.193918213248253,
+                                "KB": 2300489.984375,
+                                "MB": 2246.572250366211
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Landrina",
+            "path": "E:\\\\Ddisk\\AyushVision\\Landrina",
+            "filecount": 1500,
+            "volume": {
+                "GB": 4.213077673688531,
+                "KB": 4417732.134765625,
+                "MB": 4314.191537857056
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Landrina\\leaf",
+                            "filecount": 750,
+                            "volume": {
+                                "GB": 1.9458357458934188,
+                                "KB": 2040356.6630859375,
+                                "MB": 1992.5358037948608
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Landrina\\plant",
+                            "filecount": 750,
+                            "volume": {
+                                "GB": 2.267241927795112,
+                                "KB": 2377375.4716796875,
+                                "MB": 2321.655734062195
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Lemongrass",
+            "path": "E:\\\\Ddisk\\AyushVision\\Lemongrass",
+            "filecount": 1501,
+            "volume": {
+                "GB": 4.955203192308545,
+                "KB": 5195907.142578125,
+                "MB": 5074.12806892395
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaves",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Lemongrass\\leaves",
+                            "filecount": 751,
+                            "volume": {
+                                "GB": 2.1794658359140158,
+                                "KB": 2285335.568359375,
+                                "MB": 2231.773015975952
+                            }
+                        },
+                        {
+                            "name": "Plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Lemongrass\\Plant",
+                            "filecount": 750,
+                            "volume": {
+                                "GB": 2.7757373563945293,
+                                "KB": 2910571.57421875,
+                                "MB": 2842.355052947998
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "lime",
+            "path": "E:\\\\Ddisk\\AyushVision\\lime",
+            "filecount": 1499,
+            "volume": {
+                "GB": 4.463117589242756,
+                "KB": 4679917.9892578125,
+                "MB": 4570.2324113845825
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "fruit",
+                            "path": "E:\\\\Ddisk\\AyushVision\\lime\\fruit",
+                            "filecount": 234,
+                            "volume": {
+                                "GB": 0.7087349034845829,
+                                "KB": 743162.41015625,
+                                "MB": 725.7445411682129
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\lime\\leaf",
+                            "filecount": 622,
+                            "volume": {
+                                "GB": 1.5723766516894102,
+                                "KB": 1648756.419921875,
+                                "MB": 1610.113691329956
+                            }
+                        },
+                        {
+                            "name": "Plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\lime\\Plant",
+                            "filecount": 643,
+                            "volume": {
+                                "GB": 2.1820060340687633,
+                                "KB": 2287999.1591796875,
+                                "MB": 2234.3741788864136
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "longPepper",
+            "path": "E:\\\\Ddisk\\AyushVision\\longPepper",
+            "filecount": 1505,
+            "volume": {
+                "GB": 4.475027350708842,
+                "KB": 4692406.279296875,
+                "MB": 4582.4280071258545
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "kaai",
+                            "path": "E:\\\\Ddisk\\AyushVision\\longPepper\\kaai",
+                            "filecount": 231,
+                            "volume": {
+                                "GB": 0.5663944128900766,
+                                "KB": 593907.587890625,
+                                "MB": 579.9878787994385
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\longPepper\\leaf",
+                            "filecount": 614,
+                            "volume": {
+                                "GB": 1.5896644620224833,
+                                "KB": 1666884.0029296875,
+                                "MB": 1627.816409111023
+                            }
+                        },
+                        {
+                            "name": "plants",
+                            "path": "E:\\\\Ddisk\\AyushVision\\longPepper\\plants",
+                            "filecount": 660,
+                            "volume": {
+                                "GB": 2.3189684757962823,
+                                "KB": 2431614.6884765625,
+                                "MB": 2374.623719215393
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "MiracleLeaf",
+            "path": "E:\\\\Ddisk\\AyushVision\\MiracleLeaf",
+            "filecount": 1500,
+            "volume": {
+                "GB": 4.853316185995936,
+                "KB": 5089070.873046875,
+                "MB": 4969.795774459839
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\MiracleLeaf\\leaf",
+                            "filecount": 760,
+                            "volume": {
+                                "GB": 1.704918528907001,
+                                "KB": 1787736.6513671875,
+                                "MB": 1745.836573600769
+                            }
+                        },
+                        {
+                            "name": "Plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\MiracleLeaf\\Plant",
+                            "filecount": 740,
+                            "volume": {
+                                "GB": 3.1483976570889354,
+                                "KB": 3301334.2216796875,
+                                "MB": 3223.95920085907
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "MountainKnotgrass",
+            "path": "E:\\\\Ddisk\\AyushVision\\MountainKnotgrass",
+            "filecount": 1519,
+            "volume": {
+                "GB": 4.119182935915887,
+                "KB": 4319276.3662109375,
+                "MB": 4218.043326377869
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\MountainKnotgrass\\leaf",
+                            "filecount": 529,
+                            "volume": {
+                                "GB": 1.339566845446825,
+                                "KB": 1404637.64453125,
+                                "MB": 1371.7164497375488
+                            }
+                        },
+                        {
+                            "name": "Plants",
+                            "path": "E:\\\\Ddisk\\AyushVision\\MountainKnotgrass\\Plants",
+                            "filecount": 990,
+                            "volume": {
+                                "GB": 2.7796160904690623,
+                                "KB": 2914638.7216796875,
+                                "MB": 2846.32687664032
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Neem",
+            "path": "E:\\\\Ddisk\\AyushVision\\Neem",
+            "filecount": 1616,
+            "volume": {
+                "GB": 6.285626501776278,
+                "KB": 6590957.0947265625,
+                "MB": 6436.481537818909
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Neem\\flower",
+                            "filecount": 201,
+                            "volume": {
+                                "GB": 0.9020589618012309,
+                                "KB": 945877.3779296875,
+                                "MB": 923.7083768844604
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Neem\\leaf",
+                            "filecount": 746,
+                            "volume": {
+                                "GB": 2.0111997770145535,
+                                "KB": 2108895.8173828125,
+                                "MB": 2059.468571662903
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Neem\\plant",
+                            "filecount": 669,
+                            "volume": {
+                                "GB": 3.3723677629604936,
+                                "KB": 3536183.8994140625,
+                                "MB": 3453.3045892715454
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Oregano",
+            "path": "E:\\\\Ddisk\\AyushVision\\Oregano",
+            "filecount": 1500,
+            "volume": {
+                "GB": 3.843934366479516,
+                "KB": 4030657.322265625,
+                "MB": 3936.1887912750244
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Oregano\\leaf",
+                            "filecount": 750,
+                            "volume": {
+                                "GB": 1.9302670238539577,
+                                "KB": 2024031.6748046875,
+                                "MB": 1976.5934324264526
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Oregano\\plant",
+                            "filecount": 750,
+                            "volume": {
+                                "GB": 1.9136673426255584,
+                                "KB": 2006625.6474609375,
+                                "MB": 1959.5953588485718
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Pedaliummurex",
+            "path": "E:\\\\Ddisk\\AyushVision\\Pedaliummurex",
+            "filecount": 1500,
+            "volume": {
+                "GB": 4.243562747724354,
+                "KB": 4449698.0517578125,
+                "MB": 4345.408253669739
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Pedaliummurex\\flower",
+                            "filecount": 200,
+                            "volume": {
+                                "GB": 0.4725780636072159,
+                                "KB": 495534.015625,
+                                "MB": 483.91993713378906
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Pedaliummurex\\leaf",
+                            "filecount": 500,
+                            "volume": {
+                                "GB": 1.2910644588992,
+                                "KB": 1353779.2060546875,
+                                "MB": 1322.0500059127808
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Pedaliummurex\\plant",
+                            "filecount": 600,
+                            "volume": {
+                                "GB": 2.04997147154063,
+                                "KB": 2149550.8857421875,
+                                "MB": 2099.170786857605
+                            }
+                        },
+                        {
+                            "name": "seeds",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Pedaliummurex\\seeds",
+                            "filecount": 200,
+                            "volume": {
+                                "GB": 0.42994875367730856,
+                                "KB": 450833.9443359375,
+                                "MB": 440.26752376556396
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "RedPeaEggplant",
+            "path": "E:\\\\Ddisk\\AyushVision\\RedPeaEggplant",
+            "filecount": 1599,
+            "volume": {
+                "GB": 4.788788170553744,
+                "KB": 5021408.3447265625,
+                "MB": 4903.719086647034
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "Flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\RedPeaEggplant\\Flower",
+                            "filecount": 206,
+                            "volume": {
+                                "GB": 0.4990956699475646,
+                                "KB": 523339.7412109375,
+                                "MB": 511.07396602630615
+                            }
+                        },
+                        {
+                            "name": "kaai",
+                            "path": "E:\\\\Ddisk\\AyushVision\\RedPeaEggplant\\kaai",
+                            "filecount": 200,
+                            "volume": {
+                                "GB": 0.7116527063772082,
+                                "KB": 746221.9482421875,
+                                "MB": 728.7323713302612
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\RedPeaEggplant\\leaf",
+                            "filecount": 538,
+                            "volume": {
+                                "GB": 1.3553850846365094,
+                                "KB": 1421224.2705078125,
+                                "MB": 1387.9143266677856
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\RedPeaEggplant\\plant",
+                            "filecount": 655,
+                            "volume": {
+                                "GB": 2.2226547095924616,
+                                "KB": 2330622.384765625,
+                                "MB": 2275.9984226226807
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "RingwormPlant",
+            "path": "E:\\\\Ddisk\\AyushVision\\RingwormPlant",
+            "filecount": 1601,
+            "volume": {
+                "GB": 5.943642467260361,
+                "KB": 6232360.84375,
+                "MB": 6086.289886474609
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\RingwormPlant\\flower",
+                            "filecount": 300,
+                            "volume": {
+                                "GB": 0.7949890438467264,
+                                "KB": 833606.431640625,
+                                "MB": 814.0687808990479
+                            }
+                        },
+                        {
+                            "name": "kai",
+                            "path": "E:\\\\Ddisk\\AyushVision\\RingwormPlant\\kai",
+                            "filecount": 200,
+                            "volume": {
+                                "GB": 0.5851308312267065,
+                                "KB": 613554.146484375,
+                                "MB": 599.1739711761475
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\RingwormPlant\\leaf",
+                            "filecount": 500,
+                            "volume": {
+                                "GB": 1.5174802094697952,
+                                "KB": 1591193.328125,
+                                "MB": 1553.8997344970703
+                            }
+                        },
+                        {
+                            "name": "Plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\RingwormPlant\\Plant",
+                            "filecount": 601,
+                            "volume": {
+                                "GB": 3.0460423827171326,
+                                "KB": 3194006.9375,
+                                "MB": 3119.1473999023438
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Seedsunderleaves",
+            "path": "E:\\\\Ddisk\\AyushVision\\Seedsunderleaves",
+            "filecount": 1501,
+            "volume": {
+                "GB": 4.706921575590968,
+                "KB": 4935564.998046875,
+                "MB": 4819.887693405151
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Seedsunderleaves\\leaf",
+                            "filecount": 760,
+                            "volume": {
+                                "GB": 2.2999276481568813,
+                                "KB": 2411648.93359375,
+                                "MB": 2355.1259117126465
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Seedsunderleaves\\plant",
+                            "filecount": 741,
+                            "volume": {
+                                "GB": 2.406993927434087,
+                                "KB": 2523916.064453125,
+                                "MB": 2464.761781692505
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "SleepyPlant",
+            "path": "E:\\\\Ddisk\\AyushVision\\SleepyPlant",
+            "filecount": 1873,
+            "volume": {
+                "GB": 6.449348372407258,
+                "KB": 6762631.9189453125,
+                "MB": 6604.132733345032
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\SleepyPlant\\flower",
+                            "filecount": 207,
+                            "volume": {
+                                "GB": 0.5031618187204003,
+                                "KB": 527603.4072265625,
+                                "MB": 515.2377023696899
+                            }
+                        },
+                        {
+                            "name": "Leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\SleepyPlant\\Leaf",
+                            "filecount": 554,
+                            "volume": {
+                                "GB": 1.4957942860201001,
+                                "KB": 1568453.9892578125,
+                                "MB": 1531.6933488845825
+                            }
+                        },
+                        {
+                            "name": "Plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\SleepyPlant\\Plant",
+                            "filecount": 1112,
+                            "volume": {
+                                "GB": 4.450392267666757,
+                                "KB": 4666574.5224609375,
+                                "MB": 4557.201682090759
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "tallperennialgrass",
+            "path": "E:\\\\Ddisk\\AyushVision\\tallperennialgrass",
+            "filecount": 1539,
+            "volume": {
+                "GB": 5.352946015074849,
+                "KB": 5612970.720703125,
+                "MB": 5481.4167194366455
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\tallperennialgrass\\leaf",
+                            "filecount": 601,
+                            "volume": {
+                                "GB": 1.714214125648141,
+                                "KB": 1797483.791015625,
+                                "MB": 1755.3552646636963
+                            }
+                        },
+                        {
+                            "name": "Plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\tallperennialgrass\\Plant",
+                            "filecount": 712,
+                            "volume": {
+                                "GB": 3.084000639617443,
+                                "KB": 3233809.0546875,
+                                "MB": 3158.0166549682617
+                            }
+                        },
+                        {
+                            "name": "root",
+                            "path": "E:\\\\Ddisk\\AyushVision\\tallperennialgrass\\root",
+                            "filecount": 226,
+                            "volume": {
+                                "GB": 0.5547312498092651,
+                                "KB": 581677.875,
+                                "MB": 568.0447998046875
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "ThornApple",
+            "path": "E:\\\\Ddisk\\AyushVision\\ThornApple",
+            "filecount": 1558,
+            "volume": {
+                "GB": 6.164800396189094,
+                "KB": 6464261.740234375,
+                "MB": 6312.755605697632
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\ThornApple\\flower",
+                            "filecount": 215,
+                            "volume": {
+                                "GB": 0.5745304292067885,
+                                "KB": 602438.8193359375,
+                                "MB": 588.3191595077515
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\ThornApple\\leaf",
+                            "filecount": 506,
+                            "volume": {
+                                "GB": 1.5481997672468424,
+                                "KB": 1623405.119140625,
+                                "MB": 1585.3565616607666
+                            }
+                        },
+                        {
+                            "name": "Plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\ThornApple\\Plant",
+                            "filecount": 637,
+                            "volume": {
+                                "GB": 3.1326648695394397,
+                                "KB": 3284837.1982421875,
+                                "MB": 3207.8488264083862
+                            }
+                        },
+                        {
+                            "name": "seeds",
+                            "path": "E:\\\\Ddisk\\AyushVision\\ThornApple\\seeds",
+                            "filecount": 200,
+                            "volume": {
+                                "GB": 0.909405330196023,
+                                "KB": 953580.603515625,
+                                "MB": 931.2310581207275
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "turmeric",
+            "path": "E:\\\\Ddisk\\AyushVision\\turmeric",
+            "filecount": 1494,
+            "volume": {
+                "GB": 6.3287744438275695,
+                "KB": 6636200.9912109375,
+                "MB": 6480.665030479431
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\turmeric\\leaf",
+                            "filecount": 506,
+                            "volume": {
+                                "GB": 1.6842500856146216,
+                                "KB": 1766064.2177734375,
+                                "MB": 1724.6720876693726
+                            }
+                        },
+                        {
+                            "name": "Plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\turmeric\\Plant",
+                            "filecount": 788,
+                            "volume": {
+                                "GB": 4.139880181290209,
+                                "KB": 4340979.0009765625,
+                                "MB": 4239.237305641174
+                            }
+                        },
+                        {
+                            "name": "root",
+                            "path": "E:\\\\Ddisk\\AyushVision\\turmeric\\root",
+                            "filecount": 200,
+                            "volume": {
+                                "GB": 0.5046441769227386,
+                                "KB": 529157.7724609375,
+                                "MB": 516.7556371688843
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "Vitexnegundo",
+            "path": "E:\\\\Ddisk\\AyushVision\\Vitexnegundo",
+            "filecount": 1511,
+            "volume": {
+                "GB": 4.596429508179426,
+                "KB": 4819705.66796875,
+                "MB": 4706.743816375732
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "flower",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Vitexnegundo\\flower",
+                            "filecount": 200,
+                            "volume": {
+                                "GB": 0.4790786812081933,
+                                "KB": 502350.4072265625,
+                                "MB": 490.57656955718994
+                            }
+                        },
+                        {
+                            "name": "leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Vitexnegundo\\leaf",
+                            "filecount": 648,
+                            "volume": {
+                                "GB": 1.7656964650377631,
+                                "KB": 1851466.9365234375,
+                                "MB": 1808.0731801986694
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\Vitexnegundo\\plant",
+                            "filecount": 663,
+                            "volume": {
+                                "GB": 2.3516543619334698,
+                                "KB": 2465888.32421875,
+                                "MB": 2408.094066619873
+                            }
+                        }
+                    ]
+                ]
+            ]
+        },
+        {
+            "name": "WildTurmaric",
+            "path": "E:\\\\Ddisk\\AyushVision\\WildTurmaric",
+            "filecount": 1510,
+            "volume": {
+                "GB": 5.291591003537178,
+                "KB": 5548635.328125,
+                "MB": 5418.58918762207
+            },
+            "subfolders": [
+                [
+                    [
+                        {
+                            "name": "kilanku",
+                            "path": "E:\\\\Ddisk\\AyushVision\\WildTurmaric\\kilanku",
+                            "filecount": 282,
+                            "volume": {
+                                "GB": 0.7584366807714105,
+                                "KB": 795278.5009765625,
+                                "MB": 776.6391611099243
+                            }
+                        },
+                        {
+                            "name": "Leaf",
+                            "path": "E:\\\\Ddisk\\AyushVision\\WildTurmaric\\Leaf",
+                            "filecount": 514,
+                            "volume": {
+                                "GB": 1.891908056102693,
+                                "KB": 1983809.3818359375,
+                                "MB": 1937.3138494491577
+                            }
+                        },
+                        {
+                            "name": "plant",
+                            "path": "E:\\\\Ddisk\\AyushVision\\WildTurmaric\\plant",
+                            "filecount": 714,
+                            "volume": {
+                                "GB": 2.6412462666630745,
+                                "KB": 2769547.4453125,
+                                "MB": 2704.6361770629883
+                            }
+                        }
+                    ]
+                ]
+            ]
+        }
+    ]
+}
