@@ -1,15 +1,15 @@
 {
-    "volume_gb": 154.32867665681988,
-    "count": 47990,
+    "volume_gb": 153.97459274809808,
+    "count": 48015,
     "subfolder": [
         {
             "name": "AdamantCreeper",
             "path": "D:\\\\AYUSHWORKING\\classification\\AdamantCreeper",
             "filecount": 1500,
             "volume": {
-                "GB": 4.821640509180725,
-                "KB": 5055856.5185546875,
-                "MB": 4937.359881401062
+                "GB": 4.756188436411321,
+                "KB": 4987225.0458984375,
+                "MB": 4870.336958885193
             },
             "subfolders": [
                 [
@@ -17,31 +17,31 @@
                         {
                             "name": "flower",
                             "path": "D:\\\\AYUSHWORKING\\classification\\AdamantCreeper\\flower",
-                            "filecount": 199,
+                            "filecount": 200,
                             "volume": {
-                                "GB": 0.5071643488481641,
-                                "KB": 531800.3642578125,
-                                "MB": 519.33629322052
+                                "GB": 0.47102178633213043,
+                                "KB": 493902.140625,
+                                "MB": 482.32630920410156
                             }
                         },
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\AdamantCreeper\\leaf",
-                            "filecount": 712,
+                            "filecount": 713,
                             "volume": {
-                                "GB": 1.4531318210065365,
-                                "KB": 1523719.15234375,
-                                "MB": 1488.0069847106934
+                                "GB": 1.4340306743979454,
+                                "KB": 1503690.1484375,
+                                "MB": 1468.447410583496
                             }
                         },
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\AdamantCreeper\\plant",
-                            "filecount": 589,
+                            "filecount": 587,
                             "volume": {
-                                "GB": 2.861344339326024,
-                                "KB": 3000337.001953125,
-                                "MB": 2930.0166034698486
+                                "GB": 2.8511359756812453,
+                                "KB": 2989632.7568359375,
+                                "MB": 2919.563239097595
                             }
                         }
                     ]
@@ -53,9 +53,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\Alovera",
             "filecount": 1500,
             "volume": {
-                "GB": 4.844363186508417,
-                "KB": 5079682.97265625,
-                "MB": 4960.627902984619
+                "GB": 4.8373036701232195,
+                "KB": 5072280.533203125,
+                "MB": 4953.398958206177
             },
             "subfolders": [
                 [
@@ -63,21 +63,21 @@
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Alovera\\leaf",
-                            "filecount": 509,
+                            "filecount": 505,
                             "volume": {
-                                "GB": 1.4244119208306074,
-                                "KB": 1493604.154296875,
-                                "MB": 1458.597806930542
+                                "GB": 1.4070951249450445,
+                                "KB": 1475446.177734375,
+                                "MB": 1440.8654079437256
                             }
                         },
                         {
                             "name": "Plants",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Alovera\\Plants",
-                            "filecount": 991,
+                            "filecount": 995,
                             "volume": {
-                                "GB": 3.4199512656778097,
-                                "KB": 3586078.818359375,
-                                "MB": 3502.030096054077
+                                "GB": 3.430208545178175,
+                                "KB": 3596834.35546875,
+                                "MB": 3512.533550262451
                             }
                         }
                     ]
@@ -89,9 +89,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\Betel",
             "filecount": 1500,
             "volume": {
-                "GB": 4.355446450412273,
-                "KB": 4567016.6171875,
-                "MB": 4459.977165222168
+                "GB": 4.352908508852124,
+                "KB": 4564355.392578125,
+                "MB": 4457.378313064575
             },
             "subfolders": [
                 [
@@ -101,9 +101,9 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\Betel\\leaf",
                             "filecount": 750,
                             "volume": {
-                                "GB": 2.1782891834154725,
-                                "KB": 2284101.7587890625,
-                                "MB": 2230.568123817444
+                                "GB": 2.1757512418553233,
+                                "KB": 2281440.5341796875,
+                                "MB": 2227.969271659851
                             }
                         },
                         {
@@ -125,9 +125,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\Black-HoneyShrub",
             "filecount": 1500,
             "volume": {
-                "GB": 4.424869284033775,
-                "KB": 4639811.734375,
-                "MB": 4531.066146850586
+                "GB": 4.419637957587838,
+                "KB": 4634326.291015625,
+                "MB": 4525.709268569946
             },
             "subfolders": [
                 [
@@ -135,21 +135,21 @@
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Black-HoneyShrub\\leaf",
-                            "filecount": 616,
+                            "filecount": 615,
                             "volume": {
-                                "GB": 1.486755846068263,
-                                "KB": 1558976.498046875,
-                                "MB": 1522.4379863739014
+                                "GB": 1.4784662360325456,
+                                "KB": 1550284.2119140625,
+                                "MB": 1513.9494256973267
                             }
                         },
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Black-HoneyShrub\\plant",
-                            "filecount": 884,
+                            "filecount": 885,
                             "volume": {
-                                "GB": 2.9381134379655123,
-                                "KB": 3080835.236328125,
-                                "MB": 3008.6281604766846
+                                "GB": 2.9411717215552926,
+                                "KB": 3084042.0791015625,
+                                "MB": 3011.7598428726196
                             }
                         }
                     ]
@@ -159,11 +159,11 @@
         {
             "name": "Calotropisgigantea",
             "path": "D:\\\\AYUSHWORKING\\classification\\Calotropisgigantea",
-            "filecount": 1500,
+            "filecount": 1501,
             "volume": {
-                "GB": 7.194335773587227,
-                "KB": 7543807.828125,
-                "MB": 7366.99983215332
+                "GB": 7.194350072182715,
+                "KB": 7543822.8212890625,
+                "MB": 7367.0144739151
             },
             "subfolders": [
                 [
@@ -191,11 +191,11 @@
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Calotropisgigantea\\plant",
-                            "filecount": 726,
+                            "filecount": 727,
                             "volume": {
-                                "GB": 5.02059031650424,
-                                "KB": 5264470.51171875,
-                                "MB": 5141.084484100342
+                                "GB": 5.020604615099728,
+                                "KB": 5264485.5048828125,
+                                "MB": 5141.099125862122
                             }
                         }
                     ]
@@ -205,11 +205,11 @@
         {
             "name": "Caster",
             "path": "D:\\\\AYUSHWORKING\\classification\\Caster",
-            "filecount": 1497,
+            "filecount": 1501,
             "volume": {
-                "GB": 5.183218250982463,
-                "KB": 5434998.2607421875,
-                "MB": 5307.6154890060425
+                "GB": 5.141385865397751,
+                "KB": 5391133.8251953125,
+                "MB": 5264.779126167297
             },
             "subfolders": [
                 [
@@ -217,31 +217,31 @@
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Caster\\leaf",
-                            "filecount": 500,
+                            "filecount": 496,
                             "volume": {
-                                "GB": 1.6412325501441956,
-                                "KB": 1720957.0625,
-                                "MB": 1680.6221313476562
+                                "GB": 1.6022592782974243,
+                                "KB": 1680090.625,
+                                "MB": 1640.7135009765625
                             }
                         },
                         {
                             "name": "Plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Caster\\Plant",
-                            "filecount": 612,
+                            "filecount": 615,
                             "volume": {
-                                "GB": 2.342791337519884,
-                                "KB": 2456594.76953125,
-                                "MB": 2399.0183296203613
+                                "GB": 2.3361830543726683,
+                                "KB": 2449665.482421875,
+                                "MB": 2392.2514476776123
                             }
                         },
                         {
                             "name": "seeds",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Caster\\seeds",
-                            "filecount": 385,
+                            "filecount": 390,
                             "volume": {
-                                "GB": 1.1991943633183837,
-                                "KB": 1257446.4287109375,
-                                "MB": 1227.975028038025
+                                "GB": 1.2029435327276587,
+                                "KB": 1261377.7177734375,
+                                "MB": 1231.8141775131226
                             }
                         }
                     ]
@@ -251,11 +251,11 @@
         {
             "name": "Cinnamon",
             "path": "D:\\\\AYUSHWORKING\\classification\\Cinnamon",
-            "filecount": 1500,
+            "filecount": 1501,
             "volume": {
-                "GB": 4.4096250385046005,
-                "KB": 4623826.984375,
-                "MB": 4515.456039428711
+                "GB": 4.379733657464385,
+                "KB": 4592483.599609375,
+                "MB": 4484.84726524353
             },
             "subfolders": [
                 [
@@ -263,21 +263,21 @@
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Cinnamon\\leaf",
-                            "filecount": 877,
+                            "filecount": 881,
                             "volume": {
-                                "GB": 2.1835743747651577,
-                                "KB": 2289643.68359375,
-                                "MB": 2235.9801597595215
+                                "GB": 2.1841883221641183,
+                                "KB": 2290287.4541015625,
+                                "MB": 2236.608841896057
                             }
                         },
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Cinnamon\\plant",
-                            "filecount": 623,
+                            "filecount": 620,
                             "volume": {
-                                "GB": 2.226050663739443,
-                                "KB": 2334183.30078125,
-                                "MB": 2279.4758796691895
+                                "GB": 2.1955453353002667,
+                                "KB": 2302196.1455078125,
+                                "MB": 2248.238423347473
                             }
                         }
                     ]
@@ -287,11 +287,11 @@
         {
             "name": "ginger",
             "path": "D:\\\\AYUSHWORKING\\classification\\ginger",
-            "filecount": 1500,
+            "filecount": 1501,
             "volume": {
-                "GB": 4.4972913805395365,
-                "KB": 4715751.806640625,
-                "MB": 4605.226373672485
+                "GB": 4.488876226358116,
+                "KB": 4706927.8779296875,
+                "MB": 4596.60925579071
             },
             "subfolders": [
                 [
@@ -299,31 +299,31 @@
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\ginger\\leaf",
-                            "filecount": 534,
+                            "filecount": 537,
                             "volume": {
-                                "GB": 1.5163754224777222,
-                                "KB": 1590034.875,
-                                "MB": 1552.7684326171875
+                                "GB": 1.5200698049739003,
+                                "KB": 1593908.7158203125,
+                                "MB": 1556.551480293274
                             }
                         },
                         {
                             "name": "plants",
                             "path": "D:\\\\AYUSHWORKING\\classification\\ginger\\plants",
-                            "filecount": 766,
+                            "filecount": 765,
                             "volume": {
-                                "GB": 2.5099556148052216,
-                                "KB": 2631879.21875,
-                                "MB": 2570.194549560547
+                                "GB": 2.5001992378383875,
+                                "KB": 2621648.916015625,
+                                "MB": 2560.204019546509
                             }
                         },
                         {
                             "name": "Root",
                             "path": "D:\\\\AYUSHWORKING\\classification\\ginger\\Root",
-                            "filecount": 200,
+                            "filecount": 199,
                             "volume": {
-                                "GB": 0.47096034325659275,
-                                "KB": 493837.712890625,
-                                "MB": 482.263391494751
+                                "GB": 0.46860718354582787,
+                                "KB": 491370.24609375,
+                                "MB": 479.85375595092773
                             }
                         }
                     ]
@@ -333,11 +333,11 @@
         {
             "name": "Henna",
             "path": "D:\\\\AYUSHWORKING\\classification\\Henna",
-            "filecount": 1500,
+            "filecount": 1501,
             "volume": {
-                "GB": 4.256869252771139,
-                "KB": 4463650.93359375,
-                "MB": 4359.0341148376465
+                "GB": 4.243559488095343,
+                "KB": 4449694.6337890625,
+                "MB": 4345.404915809631
             },
             "subfolders": [
                 [
@@ -345,21 +345,21 @@
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Henna\\leaf",
-                            "filecount": 750,
+                            "filecount": 752,
                             "volume": {
-                                "GB": 1.827115984633565,
-                                "KB": 1915869.970703125,
-                                "MB": 1870.9667682647705
+                                "GB": 1.8249481292441487,
+                                "KB": 1913596.8095703125,
+                                "MB": 1868.7468843460083
                             }
                         },
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Henna\\plant",
-                            "filecount": 750,
+                            "filecount": 749,
                             "volume": {
-                                "GB": 2.429753268137574,
-                                "KB": 2547780.962890625,
-                                "MB": 2488.067346572876
+                                "GB": 2.4186113588511944,
+                                "KB": 2536097.82421875,
+                                "MB": 2476.658031463623
                             }
                         }
                     ]
@@ -371,9 +371,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\Hibiscus",
             "filecount": 1500,
             "volume": {
-                "GB": 4.480548650957644,
-                "KB": 4698195.7822265625,
-                "MB": 4588.081818580627
+                "GB": 4.4725329000502825,
+                "KB": 4689790.658203125,
+                "MB": 4579.873689651489
             },
             "subfolders": [
                 [
@@ -383,9 +383,9 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\Hibiscus\\flower",
                             "filecount": 300,
                             "volume": {
-                                "GB": 0.6355089657008648,
-                                "KB": 666379.44921875,
-                                "MB": 650.7611808776855
+                                "GB": 0.634432340040803,
+                                "KB": 665250.525390625,
+                                "MB": 649.6587162017822
                             }
                         },
                         {
@@ -403,9 +403,9 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\Hibiscus\\plant",
                             "filecount": 606,
                             "volume": {
-                                "GB": 2.684185653924942,
-                                "KB": 2814572.65625,
-                                "MB": 2748.6061096191406
+                                "GB": 2.6772465286776423,
+                                "KB": 2807296.4560546875,
+                                "MB": 2741.5004453659058
                             }
                         }
                     ]
@@ -417,9 +417,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\HolyBasil",
             "filecount": 1500,
             "volume": {
-                "GB": 4.874232874251902,
-                "KB": 5111003.6103515625,
-                "MB": 4991.214463233948
+                "GB": 4.863180802203715,
+                "KB": 5099414.6728515625,
+                "MB": 4979.897141456604
             },
             "subfolders": [
                 [
@@ -427,31 +427,31 @@
                         {
                             "name": "flower",
                             "path": "D:\\\\AYUSHWORKING\\classification\\HolyBasil\\flower",
-                            "filecount": 316,
+                            "filecount": 327,
                             "volume": {
-                                "GB": 0.4668373242020607,
-                                "KB": 489514.4140625,
-                                "MB": 478.04141998291016
+                                "GB": 0.47922739014029503,
+                                "KB": 502506.33984375,
+                                "MB": 490.7288475036621
                             }
                         },
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\HolyBasil\\leaf",
-                            "filecount": 559,
+                            "filecount": 574,
                             "volume": {
-                                "GB": 1.8913449058309197,
-                                "KB": 1983218.8759765625,
-                                "MB": 1936.7371835708618
+                                "GB": 1.9485527873039246,
+                                "KB": 2043205.6875,
+                                "MB": 1995.3180541992188
                             }
                         },
                         {
                             "name": "Plants",
                             "path": "D:\\\\AYUSHWORKING\\classification\\HolyBasil\\Plants",
-                            "filecount": 625,
+                            "filecount": 599,
                             "volume": {
-                                "GB": 2.5160506442189217,
-                                "KB": 2638270.3203125,
-                                "MB": 2576.435859680176
+                                "GB": 2.4354006247594953,
+                                "KB": 2553702.6455078125,
+                                "MB": 2493.850239753723
                             }
                         }
                     ]
@@ -461,11 +461,11 @@
         {
             "name": "indian Mallow",
             "path": "D:\\\\AYUSHWORKING\\classification\\indian Mallow",
-            "filecount": 1500,
+            "filecount": 1501,
             "volume": {
-                "GB": 5.19551242236048,
-                "KB": 5447889.6337890625,
-                "MB": 5320.204720497131
+                "GB": 5.152407267130911,
+                "KB": 5402690.6025390625,
+                "MB": 5276.065041542053
             },
             "subfolders": [
                 [
@@ -473,31 +473,31 @@
                         {
                             "name": "flower",
                             "path": "D:\\\\AYUSHWORKING\\classification\\indian Mallow\\flower",
-                            "filecount": 400,
+                            "filecount": 398,
                             "volume": {
-                                "GB": 1.2862238511443138,
-                                "KB": 1348703.4609375,
-                                "MB": 1317.0932235717773
+                                "GB": 1.2726772213354707,
+                                "KB": 1334498.7900390625,
+                                "MB": 1303.221474647522
                             }
                         },
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\indian Mallow\\leaf",
-                            "filecount": 500,
+                            "filecount": 501,
                             "volume": {
-                                "GB": 1.439592775888741,
-                                "KB": 1509522.4345703125,
-                                "MB": 1474.1430025100708
+                                "GB": 1.4365515615791082,
+                                "KB": 1506333.490234375,
+                                "MB": 1471.0287990570068
                             }
                         },
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\indian Mallow\\plant",
-                            "filecount": 600,
+                            "filecount": 602,
                             "volume": {
-                                "GB": 2.469695795327425,
-                                "KB": 2589663.73828125,
-                                "MB": 2528.968494415283
+                                "GB": 2.4431784842163324,
+                                "KB": 2561858.322265625,
+                                "MB": 2501.8147678375244
                             }
                         }
                     ]
@@ -507,11 +507,11 @@
         {
             "name": "Indianacalypha",
             "path": "D:\\\\AYUSHWORKING\\classification\\Indianacalypha",
-            "filecount": 1500,
+            "filecount": 1501,
             "volume": {
-                "GB": 3.7994639864191413,
-                "KB": 3984026.7490234375,
-                "MB": 3890.6511220932007
+                "GB": 3.77849302534014,
+                "KB": 3962037.1025390625,
+                "MB": 3869.176857948303
             },
             "subfolders": [
                 [
@@ -521,9 +521,9 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\Indianacalypha\\flower",
                             "filecount": 300,
                             "volume": {
-                                "GB": 0.6289306739345193,
-                                "KB": 659481.6103515625,
-                                "MB": 644.0250101089478
+                                "GB": 0.6181770488619804,
+                                "KB": 648205.6171875,
+                                "MB": 633.013298034668
                             }
                         },
                         {
@@ -531,19 +531,19 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\Indianacalypha\\leaf",
                             "filecount": 550,
                             "volume": {
-                                "GB": 1.2336687818169594,
-                                "KB": 1293595.4765625,
-                                "MB": 1263.2768325805664
+                                "GB": 1.2230456033721566,
+                                "KB": 1282456.2666015625,
+                                "MB": 1252.3986978530884
                             }
                         },
                         {
                             "name": "plants",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Indianacalypha\\plants",
-                            "filecount": 650,
+                            "filecount": 651,
                             "volume": {
-                                "GB": 1.9368645306676626,
-                                "KB": 2030949.662109375,
-                                "MB": 1983.3492794036865
+                                "GB": 1.9372703731060028,
+                                "KB": 2031375.21875,
+                                "MB": 1983.7648620605469
                             }
                         }
                     ]
@@ -553,11 +553,11 @@
         {
             "name": "ivy gourd",
             "path": "D:\\\\AYUSHWORKING\\classification\\ivy gourd",
-            "filecount": 1500,
+            "filecount": 1501,
             "volume": {
-                "GB": 3.9001894360408187,
-                "KB": 4089645.0380859375,
-                "MB": 3993.7939825057983
+                "GB": 3.891446651890874,
+                "KB": 4080477.564453125,
+                "MB": 3984.841371536255
             },
             "subfolders": [
                 [
@@ -575,21 +575,21 @@
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\ivy gourd\\leaf",
-                            "filecount": 550,
+                            "filecount": 552,
                             "volume": {
-                                "GB": 1.199452986009419,
-                                "KB": 1257717.6142578125,
-                                "MB": 1228.239857673645
+                                "GB": 1.1967818681150675,
+                                "KB": 1254916.744140625,
+                                "MB": 1225.504632949829
                             }
                         },
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\ivy gourd\\plant",
-                            "filecount": 732,
+                            "filecount": 731,
                             "volume": {
-                                "GB": 2.193918213248253,
-                                "KB": 2300489.984375,
-                                "MB": 2246.572250366211
+                                "GB": 2.1878465469926596,
+                                "KB": 2294123.380859375,
+                                "MB": 2240.3548641204834
                             }
                         }
                     ]
@@ -599,11 +599,11 @@
         {
             "name": "Landrina",
             "path": "D:\\\\AYUSHWORKING\\classification\\Landrina",
-            "filecount": 1500,
+            "filecount": 1501,
             "volume": {
-                "GB": 4.213077673688531,
-                "KB": 4417732.134765625,
-                "MB": 4314.191537857056
+                "GB": 4.199523344635963,
+                "KB": 4403519.390625,
+                "MB": 4300.311904907227
             },
             "subfolders": [
                 [
@@ -613,19 +613,19 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\Landrina\\leaf",
                             "filecount": 750,
                             "volume": {
-                                "GB": 1.9458357458934188,
-                                "KB": 2040356.6630859375,
-                                "MB": 1992.5358037948608
+                                "GB": 1.9332044888287783,
+                                "KB": 2027111.830078125,
+                                "MB": 1979.601396560669
                             }
                         },
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Landrina\\plant",
-                            "filecount": 750,
+                            "filecount": 751,
                             "volume": {
-                                "GB": 2.267241927795112,
-                                "KB": 2377375.4716796875,
-                                "MB": 2321.655734062195
+                                "GB": 2.266318855807185,
+                                "KB": 2376407.560546875,
+                                "MB": 2320.7105083465576
                             }
                         }
                     ]
@@ -635,11 +635,11 @@
         {
             "name": "Lemongrass",
             "path": "D:\\\\AYUSHWORKING\\classification\\Lemongrass",
-            "filecount": 1500,
+            "filecount": 1501,
             "volume": {
-                "GB": 4.9524683970957994,
-                "KB": 5193039.501953125,
-                "MB": 5071.327638626099
+                "GB": 4.921003661118448,
+                "KB": 5160046.3349609375,
+                "MB": 5039.1077489852905
             },
             "subfolders": [
                 [
@@ -647,21 +647,21 @@
                         {
                             "name": "leaves",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Lemongrass\\leaves",
-                            "filecount": 750,
+                            "filecount": 753,
                             "volume": {
-                                "GB": 2.17673104070127,
-                                "KB": 2282467.927734375,
-                                "MB": 2228.9725856781006
+                                "GB": 2.1678739907220006,
+                                "KB": 2273180.6376953125,
+                                "MB": 2219.9029664993286
                             }
                         },
                         {
                             "name": "Plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Lemongrass\\Plant",
-                            "filecount": 750,
+                            "filecount": 748,
                             "volume": {
-                                "GB": 2.7757373563945293,
-                                "KB": 2910571.57421875,
-                                "MB": 2842.355052947998
+                                "GB": 2.753129670396447,
+                                "KB": 2886865.697265625,
+                                "MB": 2819.204782485962
                             }
                         }
                     ]
@@ -671,11 +671,11 @@
         {
             "name": "lime",
             "path": "D:\\\\AYUSHWORKING\\classification\\lime",
-            "filecount": 1499,
+            "filecount": 1501,
             "volume": {
-                "GB": 4.463117589242756,
-                "KB": 4679917.9892578125,
-                "MB": 4570.2324113845825
+                "GB": 4.457465283572674,
+                "KB": 4673991.1171875,
+                "MB": 4564.444450378418
             },
             "subfolders": [
                 [
@@ -685,29 +685,29 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\lime\\fruit",
                             "filecount": 234,
                             "volume": {
-                                "GB": 0.7087349034845829,
-                                "KB": 743162.41015625,
-                                "MB": 725.7445411682129
+                                "GB": 0.7052551582455635,
+                                "KB": 739513.6328125,
+                                "MB": 722.181282043457
                             }
                         },
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\lime\\leaf",
-                            "filecount": 622,
+                            "filecount": 623,
                             "volume": {
-                                "GB": 1.5723766516894102,
-                                "KB": 1648756.419921875,
-                                "MB": 1610.113691329956
+                                "GB": 1.5720740742981434,
+                                "KB": 1648439.14453125,
+                                "MB": 1609.8038520812988
                             }
                         },
                         {
                             "name": "Plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\lime\\Plant",
-                            "filecount": 643,
+                            "filecount": 644,
                             "volume": {
-                                "GB": 2.1820060340687633,
-                                "KB": 2287999.1591796875,
-                                "MB": 2234.3741788864136
+                                "GB": 2.180136051028967,
+                                "KB": 2286038.33984375,
+                                "MB": 2232.459316253662
                             }
                         }
                     ]
@@ -719,9 +719,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\longPepper",
             "filecount": 1500,
             "volume": {
-                "GB": 4.459096920676529,
-                "KB": 4675702.0126953125,
-                "MB": 4566.115246772766
+                "GB": 4.438260925933719,
+                "KB": 4653853.888671875,
+                "MB": 4544.779188156128
             },
             "subfolders": [
                 [
@@ -729,21 +729,21 @@
                         {
                             "name": "kaai",
                             "path": "D:\\\\AYUSHWORKING\\classification\\longPepper\\kaai",
-                            "filecount": 230,
+                            "filecount": 229,
                             "volume": {
-                                "GB": 0.5639237342402339,
-                                "KB": 591316.8935546875,
-                                "MB": 577.4579038619995
+                                "GB": 0.5395732829347253,
+                                "KB": 565783.5947265625,
+                                "MB": 552.5230417251587
                             }
                         },
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\longPepper\\leaf",
-                            "filecount": 613,
+                            "filecount": 614,
                             "volume": {
-                                "GB": 1.5874139312654734,
-                                "KB": 1664524.150390625,
-                                "MB": 1625.5118656158447
+                                "GB": 1.5896644620224833,
+                                "KB": 1666884.0029296875,
+                                "MB": 1627.816409111023
                             }
                         },
                         {
@@ -751,9 +751,9 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\longPepper\\plants",
                             "filecount": 657,
                             "volume": {
-                                "GB": 2.307759255170822,
-                                "KB": 2419860.96875,
-                                "MB": 2363.145477294922
+                                "GB": 2.30902318097651,
+                                "KB": 2421186.291015625,
+                                "MB": 2364.4397373199463
                             }
                         }
                     ]
@@ -763,11 +763,11 @@
         {
             "name": "MiracleLeaf",
             "path": "D:\\\\AYUSHWORKING\\classification\\MiracleLeaf",
-            "filecount": 1500,
+            "filecount": 1501,
             "volume": {
-                "GB": 4.853316185995936,
-                "KB": 5089070.873046875,
-                "MB": 4969.795774459839
+                "GB": 4.810384512878954,
+                "KB": 5044053.7509765625,
+                "MB": 4925.833741188049
             },
             "subfolders": [
                 [
@@ -775,21 +775,21 @@
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\MiracleLeaf\\leaf",
-                            "filecount": 760,
+                            "filecount": 763,
                             "volume": {
-                                "GB": 1.704918528907001,
-                                "KB": 1787736.6513671875,
-                                "MB": 1745.836573600769
+                                "GB": 1.70327743049711,
+                                "KB": 1786015.8349609375,
+                                "MB": 1744.1560888290405
                             }
                         },
                         {
                             "name": "Plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\MiracleLeaf\\Plant",
-                            "filecount": 740,
+                            "filecount": 738,
                             "volume": {
-                                "GB": 3.1483976570889354,
-                                "KB": 3301334.2216796875,
-                                "MB": 3223.95920085907
+                                "GB": 3.1071070823818445,
+                                "KB": 3258037.916015625,
+                                "MB": 3181.677652359009
                             }
                         }
                     ]
@@ -801,9 +801,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\MountainKnotgrass",
             "filecount": 1500,
             "volume": {
-                "GB": 4.057760102674365,
-                "KB": 4254869.857421875,
-                "MB": 4155.14634513855
+                "GB": 4.102942336350679,
+                "KB": 4302246.86328125,
+                "MB": 4201.412952423096
             },
             "subfolders": [
                 [
@@ -813,9 +813,9 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\MountainKnotgrass\\leaf",
                             "filecount": 526,
                             "volume": {
-                                "GB": 1.3319275742396712,
-                                "KB": 1396627.2880859375,
-                                "MB": 1363.8938360214233
+                                "GB": 1.3329944843426347,
+                                "KB": 1397746.0244140625,
+                                "MB": 1364.986351966858
                             }
                         },
                         {
@@ -823,9 +823,9 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\MountainKnotgrass\\Plants",
                             "filecount": 974,
                             "volume": {
-                                "GB": 2.725832528434694,
-                                "KB": 2858242.5693359375,
-                                "MB": 2791.2525091171265
+                                "GB": 2.7699478520080447,
+                                "KB": 2904500.8388671875,
+                                "MB": 2836.426600456238
                             }
                         }
                     ]
@@ -837,9 +837,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\Neem",
             "filecount": 1500,
             "volume": {
-                "GB": 5.827026990242302,
-                "KB": 6110080.6533203125,
-                "MB": 5966.875638008118
+                "GB": 5.780951322056353,
+                "KB": 6061766.8134765625,
+                "MB": 5919.694153785706
             },
             "subfolders": [
                 [
@@ -847,31 +847,31 @@
                         {
                             "name": "flower",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Neem\\flower",
-                            "filecount": 184,
+                            "filecount": 188,
                             "volume": {
-                                "GB": 0.8128654668107629,
-                                "KB": 852351.2197265625,
-                                "MB": 832.3742380142212
+                                "GB": 0.8464805101975799,
+                                "KB": 887599.1474609375,
+                                "MB": 866.7960424423218
                             }
                         },
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Neem\\leaf",
-                            "filecount": 694,
+                            "filecount": 714,
                             "volume": {
-                                "GB": 1.8622671095654368,
-                                "KB": 1952728.5966796875,
-                                "MB": 1906.9615201950073
+                                "GB": 1.92110990639776,
+                                "KB": 2014429.7412109375,
+                                "MB": 1967.2165441513062
                             }
                         },
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Neem\\plant",
-                            "filecount": 622,
+                            "filecount": 598,
                             "volume": {
-                                "GB": 3.1518944138661027,
-                                "KB": 3305000.8369140625,
-                                "MB": 3227.539879798889
+                                "GB": 3.0133609054610133,
+                                "KB": 3159737.9248046875,
+                                "MB": 3085.6815671920776
                             }
                         }
                     ]
@@ -883,9 +883,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\Oregano",
             "filecount": 1500,
             "volume": {
-                "GB": 3.843934366479516,
-                "KB": 4030657.322265625,
-                "MB": 3936.1887912750244
+                "GB": 3.839112263172865,
+                "KB": 4025600.98046875,
+                "MB": 3931.2509574890137
             },
             "subfolders": [
                 [
@@ -895,9 +895,9 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\Oregano\\leaf",
                             "filecount": 750,
                             "volume": {
-                                "GB": 1.9302670238539577,
-                                "KB": 2024031.6748046875,
-                                "MB": 1976.5934324264526
+                                "GB": 1.929058183915913,
+                                "KB": 2022764.1142578125,
+                                "MB": 1975.355580329895
                             }
                         },
                         {
@@ -905,9 +905,9 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\Oregano\\plant",
                             "filecount": 750,
                             "volume": {
-                                "GB": 1.9136673426255584,
-                                "KB": 2006625.6474609375,
-                                "MB": 1959.5953588485718
+                                "GB": 1.9100540792569518,
+                                "KB": 2002836.8662109375,
+                                "MB": 1955.8953771591187
                             }
                         }
                     ]
@@ -917,11 +917,11 @@
         {
             "name": "Pedaliummurex",
             "path": "D:\\\\AYUSHWORKING\\classification\\Pedaliummurex",
-            "filecount": 1500,
+            "filecount": 1501,
             "volume": {
-                "GB": 4.243562747724354,
-                "KB": 4449698.0517578125,
-                "MB": 4345.408253669739
+                "GB": 4.240246905013919,
+                "KB": 4446221.138671875,
+                "MB": 4342.012830734253
             },
             "subfolders": [
                 [
@@ -939,31 +939,31 @@
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Pedaliummurex\\leaf",
-                            "filecount": 500,
+                            "filecount": 501,
                             "volume": {
-                                "GB": 1.2910644588992,
-                                "KB": 1353779.2060546875,
-                                "MB": 1322.0500059127808
+                                "GB": 1.2905710535123944,
+                                "KB": 1353261.8330078125,
+                                "MB": 1321.544758796692
                             }
                         },
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Pedaliummurex\\plant",
-                            "filecount": 600,
+                            "filecount": 599,
                             "volume": {
-                                "GB": 2.04997147154063,
-                                "KB": 2149550.8857421875,
-                                "MB": 2099.170786857605
+                                "GB": 2.046862695366144,
+                                "KB": 2146291.09765625,
+                                "MB": 2095.9874000549316
                             }
                         },
                         {
                             "name": "seeds",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Pedaliummurex\\seeds",
-                            "filecount": 200,
+                            "filecount": 201,
                             "volume": {
-                                "GB": 0.42994875367730856,
-                                "KB": 450833.9443359375,
-                                "MB": 440.26752376556396
+                                "GB": 0.4302350925281644,
+                                "KB": 451134.1923828125,
+                                "MB": 440.56073474884033
                             }
                         }
                     ]
@@ -975,9 +975,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\RedPeaEggplant",
             "filecount": 1500,
             "volume": {
-                "GB": 4.479268244467676,
-                "KB": 4696853.1787109375,
-                "MB": 4586.7706823349
+                "GB": 4.476687100715935,
+                "KB": 4694146.6533203125,
+                "MB": 4584.127591133118
             },
             "subfolders": [
                 [
@@ -985,41 +985,41 @@
                         {
                             "name": "Flower",
                             "path": "D:\\\\AYUSHWORKING\\classification\\RedPeaEggplant\\Flower",
-                            "filecount": 189,
+                            "filecount": 191,
                             "volume": {
-                                "GB": 0.45867541525512934,
-                                "KB": 480956.0322265625,
-                                "MB": 469.68362522125244
+                                "GB": 0.46411112416535616,
+                                "KB": 486655.7861328125,
+                                "MB": 475.2497911453247
                             }
                         },
                         {
                             "name": "kaai",
                             "path": "D:\\\\AYUSHWORKING\\classification\\RedPeaEggplant\\kaai",
-                            "filecount": 190,
+                            "filecount": 191,
                             "volume": {
-                                "GB": 0.6695875441655517,
-                                "KB": 702113.4287109375,
-                                "MB": 685.6576452255249
+                                "GB": 0.6677241055294871,
+                                "KB": 700159.4716796875,
+                                "MB": 683.7494840621948
                             }
                         },
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\RedPeaEggplant\\leaf",
-                            "filecount": 509,
+                            "filecount": 508,
                             "volume": {
-                                "GB": 1.2803360102698207,
-                                "KB": 1342529.6123046875,
-                                "MB": 1311.0640745162964
+                                "GB": 1.2716550566256046,
+                                "KB": 1333426.97265625,
+                                "MB": 1302.1747779846191
                             }
                         },
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\RedPeaEggplant\\plant",
-                            "filecount": 612,
+                            "filecount": 610,
                             "volume": {
-                                "GB": 2.070669274777174,
-                                "KB": 2171254.10546875,
-                                "MB": 2120.365337371826
+                                "GB": 2.0731968143954873,
+                                "KB": 2173904.4228515625,
+                                "MB": 2122.953537940979
                             }
                         }
                     ]
@@ -1031,9 +1031,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\RingwormPlant",
             "filecount": 1500,
             "volume": {
-                "GB": 5.574020975269377,
-                "KB": 5844784.6181640625,
-                "MB": 5707.797478675842
+                "GB": 5.5589976124465466,
+                "KB": 5829031.48046875,
+                "MB": 5692.413555145264
             },
             "subfolders": [
                 [
@@ -1041,41 +1041,41 @@
                         {
                             "name": "flower",
                             "path": "D:\\\\AYUSHWORKING\\classification\\RingwormPlant\\flower",
-                            "filecount": 277,
+                            "filecount": 280,
                             "volume": {
-                                "GB": 0.7413655146956444,
-                                "KB": 777378.0859375,
-                                "MB": 759.1582870483398
+                                "GB": 0.742933458648622,
+                                "KB": 779022.1943359375,
+                                "MB": 760.763861656189
                             }
                         },
                         {
                             "name": "kai",
                             "path": "D:\\\\AYUSHWORKING\\classification\\RingwormPlant\\kai",
-                            "filecount": 189,
+                            "filecount": 191,
                             "volume": {
-                                "GB": 0.5512115564197302,
-                                "KB": 577987.208984375,
-                                "MB": 564.4406337738037
+                                "GB": 0.5544051164761186,
+                                "KB": 581335.8994140625,
+                                "MB": 567.7108392715454
                             }
                         },
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\RingwormPlant\\leaf",
-                            "filecount": 469,
+                            "filecount": 465,
                             "volume": {
-                                "GB": 1.4186171423643827,
-                                "KB": 1487527.888671875,
-                                "MB": 1452.663953781128
+                                "GB": 1.410880096256733,
+                                "KB": 1479415.0078125,
+                                "MB": 1444.7412185668945
                             }
                         },
                         {
                             "name": "Plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\RingwormPlant\\Plant",
-                            "filecount": 565,
+                            "filecount": 564,
                             "volume": {
-                                "GB": 2.86282676178962,
-                                "KB": 3001891.4345703125,
-                                "MB": 2931.534604072571
+                                "GB": 2.850778941065073,
+                                "KB": 2989258.37890625,
+                                "MB": 2919.1976356506348
                             }
                         }
                     ]
@@ -1085,11 +1085,11 @@
         {
             "name": "Seedsunderleaves",
             "path": "D:\\\\AYUSHWORKING\\classification\\Seedsunderleaves",
-            "filecount": 1500,
+            "filecount": 1501,
             "volume": {
-                "GB": 4.703477562405169,
-                "KB": 4931953.6884765625,
-                "MB": 4816.361023902893
+                "GB": 4.693586173467338,
+                "KB": 4921581.8154296875,
+                "MB": 4806.232241630554
             },
             "subfolders": [
                 [
@@ -1097,11 +1097,11 @@
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Seedsunderleaves\\leaf",
-                            "filecount": 759,
+                            "filecount": 760,
                             "volume": {
-                                "GB": 2.296483634971082,
-                                "KB": 2408037.6240234375,
-                                "MB": 2351.599242210388
+                                "GB": 2.299639267846942,
+                                "KB": 2411346.544921875,
+                                "MB": 2354.8306102752686
                             }
                         },
                         {
@@ -1109,9 +1109,9 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\Seedsunderleaves\\plant",
                             "filecount": 741,
                             "volume": {
-                                "GB": 2.406993927434087,
-                                "KB": 2523916.064453125,
-                                "MB": 2464.761781692505
+                                "GB": 2.393946905620396,
+                                "KB": 2510235.2705078125,
+                                "MB": 2451.4016313552856
                             }
                         }
                     ]
@@ -1123,9 +1123,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\SleepyPlant",
             "filecount": 1500,
             "volume": {
-                "GB": 5.156319731846452,
-                "KB": 5406793.119140625,
-                "MB": 5280.071405410767
+                "GB": 5.183112228289247,
+                "KB": 5434887.087890625,
+                "MB": 5307.5069217681885
             },
             "subfolders": [
                 [
@@ -1133,31 +1133,31 @@
                         {
                             "name": "flower",
                             "path": "D:\\\\AYUSHWORKING\\classification\\SleepyPlant\\flower",
-                            "filecount": 158,
+                            "filecount": 161,
                             "volume": {
-                                "GB": 0.38265826273709536,
-                                "KB": 401246.2705078125,
-                                "MB": 391.84206104278564
+                                "GB": 0.39107731729745865,
+                                "KB": 410074.2890625,
+                                "MB": 400.46317291259766
                             }
                         },
                         {
                             "name": "Leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\SleepyPlant\\Leaf",
-                            "filecount": 471,
+                            "filecount": 459,
                             "volume": {
-                                "GB": 1.2696155961602926,
-                                "KB": 1331288.443359375,
-                                "MB": 1300.0863704681396
+                                "GB": 1.234180174767971,
+                                "KB": 1294131.7109375,
+                                "MB": 1263.8004989624023
                             }
                         },
                         {
                             "name": "Plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\SleepyPlant\\Plant",
-                            "filecount": 871,
+                            "filecount": 880,
                             "volume": {
-                                "GB": 3.5040458729490638,
-                                "KB": 3674258.4052734375,
-                                "MB": 3588.1429738998413
+                                "GB": 3.557854736223817,
+                                "KB": 3730681.087890625,
+                                "MB": 3643.2432498931885
                             }
                         }
                     ]
@@ -1169,9 +1169,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\tallperennialgrass",
             "filecount": 1500,
             "volume": {
-                "GB": 5.21566079556942,
-                "KB": 5469016.734375,
-                "MB": 5340.836654663086
+                "GB": 5.212327320128679,
+                "KB": 5465521.33203125,
+                "MB": 5337.423175811768
             },
             "subfolders": [
                 [
@@ -1179,31 +1179,31 @@
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\tallperennialgrass\\leaf",
-                            "filecount": 583,
+                            "filecount": 589,
                             "volume": {
-                                "GB": 1.6543825305998325,
-                                "KB": 1734745.81640625,
-                                "MB": 1694.0877113342285
+                                "GB": 1.6822227025404572,
+                                "KB": 1763938.3525390625,
+                                "MB": 1722.5960474014282
                             }
                         },
                         {
                             "name": "Plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\tallperennialgrass\\Plant",
-                            "filecount": 696,
+                            "filecount": 689,
                             "volume": {
-                                "GB": 3.0181568656116724,
-                                "KB": 3164766.853515625,
-                                "MB": 3090.5926303863525
+                                "GB": 2.9830793645232916,
+                                "KB": 3127985.427734375,
+                                "MB": 3054.6732692718506
                             }
                         },
                         {
                             "name": "root",
                             "path": "D:\\\\AYUSHWORKING\\classification\\tallperennialgrass\\root",
-                            "filecount": 221,
+                            "filecount": 222,
                             "volume": {
-                                "GB": 0.5431213993579149,
-                                "KB": 569504.064453125,
-                                "MB": 556.1563129425049
+                                "GB": 0.5470252530649304,
+                                "KB": 573597.5517578125,
+                                "MB": 560.1538591384888
                             }
                         }
                     ]
@@ -1215,9 +1215,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\ThornApple",
             "filecount": 1500,
             "volume": {
-                "GB": 5.902182913385332,
-                "KB": 6188887.3505859375,
-                "MB": 6043.83530330658
+                "GB": 5.934523203410208,
+                "KB": 6222798.6025390625,
+                "MB": 6076.951760292053
             },
             "subfolders": [
                 [
@@ -1225,11 +1225,11 @@
                         {
                             "name": "flower",
                             "path": "D:\\\\AYUSHWORKING\\classification\\ThornApple\\flower",
-                            "filecount": 208,
+                            "filecount": 203,
                             "volume": {
-                                "GB": 0.5556964371353388,
-                                "KB": 582689.947265625,
-                                "MB": 569.0331516265869
+                                "GB": 0.5411407081410289,
+                                "KB": 567427.1591796875,
+                                "MB": 554.1280851364136
                             }
                         },
                         {
@@ -1237,29 +1237,29 @@
                             "path": "D:\\\\AYUSHWORKING\\classification\\ThornApple\\leaf",
                             "filecount": 488,
                             "volume": {
-                                "GB": 1.489783976227045,
-                                "KB": 1562151.72265625,
-                                "MB": 1525.5387916564941
+                                "GB": 1.4952946146950126,
+                                "KB": 1567930.0458984375,
+                                "MB": 1531.1816854476929
                             }
                         },
                         {
                             "name": "Plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\ThornApple\\Plant",
-                            "filecount": 611,
+                            "filecount": 617,
                             "volume": {
-                                "GB": 2.995697846636176,
-                                "KB": 3141216.865234375,
-                                "MB": 3067.5945949554443
+                                "GB": 3.0169343249872327,
+                                "KB": 3163484.9267578125,
+                                "MB": 3089.3407487869263
                             }
                         },
                         {
                             "name": "seeds",
                             "path": "D:\\\\AYUSHWORKING\\classification\\ThornApple\\seeds",
-                            "filecount": 193,
+                            "filecount": 192,
                             "volume": {
-                                "GB": 0.8610046533867717,
-                                "KB": 902828.8154296875,
-                                "MB": 881.6687650680542
+                                "GB": 0.8811535555869341,
+                                "KB": 923956.470703125,
+                                "MB": 902.3012409210205
                             }
                         }
                     ]
@@ -1269,11 +1269,11 @@
         {
             "name": "turmeric",
             "path": "D:\\\\AYUSHWORKING\\classification\\turmeric",
-            "filecount": 1494,
+            "filecount": 1501,
             "volume": {
-                "GB": 6.3287744438275695,
-                "KB": 6636200.9912109375,
-                "MB": 6480.665030479431
+                "GB": 6.3357192520052195,
+                "KB": 6643483.150390625,
+                "MB": 6487.776514053345
             },
             "subfolders": [
                 [
@@ -1281,31 +1281,31 @@
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\turmeric\\leaf",
-                            "filecount": 506,
+                            "filecount": 510,
                             "volume": {
-                                "GB": 1.6842500856146216,
-                                "KB": 1766064.2177734375,
-                                "MB": 1724.6720876693726
+                                "GB": 1.6878134328871965,
+                                "KB": 1769800.658203125,
+                                "MB": 1728.3209552764893
                             }
                         },
                         {
                             "name": "Plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\turmeric\\Plant",
-                            "filecount": 788,
+                            "filecount": 790,
                             "volume": {
-                                "GB": 4.139880181290209,
-                                "KB": 4340979.0009765625,
-                                "MB": 4239.237305641174
+                                "GB": 4.142735107801855,
+                                "KB": 4343972.6083984375,
+                                "MB": 4242.160750389099
                             }
                         },
                         {
                             "name": "root",
                             "path": "D:\\\\AYUSHWORKING\\classification\\turmeric\\root",
-                            "filecount": 200,
+                            "filecount": 201,
                             "volume": {
-                                "GB": 0.5046441769227386,
-                                "KB": 529157.7724609375,
-                                "MB": 516.7556371688843
+                                "GB": 0.5051707113161683,
+                                "KB": 529709.8837890625,
+                                "MB": 517.2948083877563
                             }
                         }
                     ]
@@ -1317,9 +1317,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\Vitexnegundo",
             "filecount": 1500,
             "volume": {
-                "GB": 4.5584712866693735,
-                "KB": 4779903.587890625,
-                "MB": 4667.8745975494385
+                "GB": 4.56066638790071,
+                "KB": 4782205.318359375,
+                "MB": 4670.122381210327
             },
             "subfolders": [
                 [
@@ -1327,31 +1327,31 @@
                         {
                             "name": "flower",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Vitexnegundo\\flower",
-                            "filecount": 200,
+                            "filecount": 198,
                             "volume": {
-                                "GB": 0.4790786812081933,
-                                "KB": 502350.4072265625,
-                                "MB": 490.57656955718994
+                                "GB": 0.47414944507181644,
+                                "KB": 497181.728515625,
+                                "MB": 485.52903175354004
                             }
                         },
                         {
                             "name": "leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Vitexnegundo\\leaf",
-                            "filecount": 642,
+                            "filecount": 643,
                             "volume": {
-                                "GB": 1.749211517162621,
-                                "KB": 1834181.2158203125,
-                                "MB": 1791.192593574524
+                                "GB": 1.751874546520412,
+                                "KB": 1836973.6044921875,
+                                "MB": 1793.9195356369019
                             }
                         },
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\Vitexnegundo\\plant",
-                            "filecount": 658,
+                            "filecount": 659,
                             "volume": {
-                                "GB": 2.330181088298559,
-                                "KB": 2443371.96484375,
-                                "MB": 2386.1054344177246
+                                "GB": 2.3346423963084817,
+                                "KB": 2448049.9853515625,
+                                "MB": 2390.6738138198853
                             }
                         }
                     ]
@@ -1363,9 +1363,9 @@
             "path": "D:\\\\AYUSHWORKING\\classification\\WildTurmaric",
             "filecount": 1500,
             "volume": {
-                "GB": 5.259533233009279,
-                "KB": 5515020.3193359375,
-                "MB": 5385.7620306015015
+                "GB": 5.257078385911882,
+                "KB": 5512446.2255859375,
+                "MB": 5383.248267173767
             },
             "subfolders": [
                 [
@@ -1373,31 +1373,31 @@
                         {
                             "name": "kilanku",
                             "path": "D:\\\\AYUSHWORKING\\classification\\WildTurmaric\\kilanku",
-                            "filecount": 279,
+                            "filecount": 282,
                             "volume": {
-                                "GB": 0.7515104478225112,
-                                "KB": 788015.8193359375,
-                                "MB": 769.5466985702515
+                                "GB": 0.7584366807714105,
+                                "KB": 795278.5009765625,
+                                "MB": 776.6391611099243
                             }
                         },
                         {
                             "name": "Leaf",
                             "path": "D:\\\\AYUSHWORKING\\classification\\WildTurmaric\\Leaf",
-                            "filecount": 510,
+                            "filecount": 511,
                             "volume": {
-                                "GB": 1.877776175737381,
-                                "KB": 1968991.03125,
-                                "MB": 1922.8428039550781
+                                "GB": 1.8822017395868897,
+                                "KB": 1973631.5712890625,
+                                "MB": 1927.374581336975
                             }
                         },
                         {
                             "name": "plant",
                             "path": "D:\\\\AYUSHWORKING\\classification\\WildTurmaric\\plant",
-                            "filecount": 711,
+                            "filecount": 707,
                             "volume": {
-                                "GB": 2.6302466094493866,
-                                "KB": 2758013.46875,
-                                "MB": 2693.372528076172
+                                "GB": 2.6164399655535817,
+                                "KB": 2743536.1533203125,
+                                "MB": 2679.2345247268677
                             }
                         }
                     ]
